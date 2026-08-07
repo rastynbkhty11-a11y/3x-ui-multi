@@ -3,7 +3,7 @@ const CONFIG = {
     TIMEOUT: 3000,
     MAX_IPS_PER_REQUEST: 200,
     CACHE_TTL: 300,
-    EXIT_ADDRESSES_URL: 'https://check.torproject.org/exit-addresses',
+    EXIT_ADDRESSES_URL: 'https://small-base-6f54.rastynbkhty11.workers.dev',
     ONIONOO_API_URL: 'https://onionoo.torproject.org/details?search=flag:exit',
     IP_API_URL: 'http://ip-api.com/json/',
     IP_API_BATCH_URL: 'http://ip-api.com/batch',
